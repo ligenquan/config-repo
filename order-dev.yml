@@ -15,5 +15,5 @@ server:
 env:
   env-update-remark-continue-update
 girl:
-  name: xiaoming
-  age: 22
+  name: xiaoming,xiao`ou
+  age: 22,22.5
